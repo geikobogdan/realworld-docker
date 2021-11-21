@@ -1,0 +1,5 @@
+{
+  "verbase": false,
+  "watch": ["src"],
+  "exec": "node src/index.js"
+}
